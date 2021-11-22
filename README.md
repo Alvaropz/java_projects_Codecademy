@@ -8,7 +8,7 @@
 
 ## General Info:
 
-These are a series of challenges provided by Codeacademy of its course about Java where I worked with variables, loops or functions.
+This is a series of challenges provided by Codeacademy of its course about Java where I worked with variables, loops or functions.
 
 ## Technologies:
 
